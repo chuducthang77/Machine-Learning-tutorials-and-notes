@@ -6,3 +6,7 @@
 2. Convex optimization
 3. Math for Machine Learning
 4. Cheatsheet for Machine Learning
+
+# Useful Link
+
+[COMS30007](https://github.com/carlhenrikek/COMS30007) 
