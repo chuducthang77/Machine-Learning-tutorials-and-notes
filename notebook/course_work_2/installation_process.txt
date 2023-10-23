@@ -1,0 +1,9 @@
+pip install opencv-python
+pip install onnx
+pip install onnxruntime
+pip install onnx_tf
+pip install tensorflow
+conda install python=3.5
+pip install tensorflow-addons
+conda install python=3.7
+conda install opencv
