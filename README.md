@@ -16,16 +16,16 @@
 12. [GAN, conditional GAN](https://github.com/chuducthang77/Machine-Learning-tutorials-and-notes/blob/main/6_GAN.ipynb)
 
 ## TODO:
-[] Autograd
-[] LDA, QDA, NB
-[] T-SNE, PCA, kernel PCA
-[] SVM
-[] Boosting, Bagging, Random Forest
-[] Cross validation, Bootstrap
-[] RNN
-[] Transformers
-[] Deep RL
-[] Utilities: Dataloaders, etc
+- [ ] Autograd
+- [ ] LDA, QDA, NB
+- [ ] T-SNE, PCA, kernel PCA
+- [ ] SVM
+- [ ] Boosting, Bagging, Random Forest
+- [ ] Cross validation, Bootstrap
+- [ ] RNN
+- [ ] Transformers
+- [ ] Deep RL
+- [ ] Utilities: Dataloaders, etc
 
 
 
